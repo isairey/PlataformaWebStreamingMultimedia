@@ -137,7 +137,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del proyecto
 
 ```bash
-movie-streaming-website/
+PlataformaWebStreamingMultimedia/
 │
 ├── assets/
 ├── css/
@@ -168,7 +168,7 @@ movie-streaming-website/
 ### SSH
 
 ```bash
-git clone git@github.com:MDAffanMafia/movie-streaming-website.git
+git clone git@github.com:isairey/PlataformaWebStreamingMultimedia.git
 ```
 
 ---
@@ -176,7 +176,7 @@ git clone git@github.com:MDAffanMafia/movie-streaming-website.git
 ### HTTPS
 
 ```bash
-git clone https://github.com/MDAffanMafia/movie-streaming-website.git
+git clone https://github.com/isairey/PlataformaWebStreamingMultimedia.git
 ```
 
 ---
@@ -318,7 +318,7 @@ git push origin feature/new-feature
 
 <div align="center">
 
-## Movie Streaming Website Developers
+## Isai Reyes Developer
 
 Desarrolladores enfocados en plataformas multimedia y experiencias modernas de streaming web.
 
